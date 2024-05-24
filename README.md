@@ -1,2 +1,1 @@
 # Techie-horizon
-.
